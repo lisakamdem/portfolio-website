@@ -9,7 +9,7 @@ export default function JamlPainting(){
         <div className="w-full">
             <div className="w-screen h-[50vh] relative">
                 <div className="absolute top-0 left-0 w-full h-[50vh] bg-black/70 z-10">
-                    <Image src="/./assets/paws.svg" alt="jamlpaintinglogo" className="absolute z-1" layout="fill" objectFit="cover" />
+                    <Image src="/./assets/paw.svg" alt="jamlpaintinglogo" className="absolute z-1" layout="fill" objectFit="cover" />
                         <div className="absolute top-[70%] max-w-[1240px] w-full left-[50%] translate-x-[-50%] translate-y-[-50%] z-10 p-2">
                             <h2 className="py-2">J.A.M.L Painting</h2>
                             <h3>HTML/CSS/JavaScript</h3>
