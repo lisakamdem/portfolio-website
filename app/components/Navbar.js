@@ -11,7 +11,7 @@ export default function NavBar() {
     const [nav, setNav] = useState(false);
     const [shadow, setShadow] = useState(false);
     const [navBg, setNavBg] = useState('transparent');
-    const [navColor, setNavColor] = useState('text-gray-800');
+    const [navColor, setNavColor] = useState('text-gray-500');
 
 
     const handleNav = () => {
@@ -27,7 +27,7 @@ export default function NavBar() {
             }else{
                 setShadow(false);
                 setNavBg('transparent');
-                setNavColor('text-gray-800');
+                setNavColor('text-gray-500');
             }
         }
 
@@ -124,3 +124,6 @@ export default function NavBar() {
        </div>
     );
 }
+
+
+

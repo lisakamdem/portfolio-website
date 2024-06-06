@@ -46,7 +46,7 @@ export default function Contact() {
                     <div className="col-span-3 lg:col-span-2 h-full w-full shadow-xl shadow-gray-400 rounded-xl p-4">
                         <div className="lg:p-4 h-full">
                             <div>
-                                <img src="./assets/logo.png" alt="" className="rounded-xl hover:scale-105 ease-in duration-300" />
+                                <img src="./assets/contact.webp" alt="" className="rounded-xl hover:scale-105 ease-in duration-300" />
                             </div>
                             <div>
                                 <h2 className="py-2">Lisa Kamdem</h2>
