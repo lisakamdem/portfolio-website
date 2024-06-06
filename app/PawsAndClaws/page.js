@@ -38,12 +38,11 @@ export default function PawsAndClaws() {
                     <div className="p-2">
                         <p>Technologies</p>
                         <div className="grid grid-cols-3 md:grid-cols-1">
-                            <p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>React</p>
-                            <p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>Tailwind CSS</p>
-                            <p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>MongoDB</p>
-                            <p className="text-gray-600 py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>Next Auth</p>
+                            <p className="py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>React</p>
+                            <p className="py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>Tailwind CSS</p>
+                            <p className="py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>MongoDB</p>
+                            <p className="py-2 flex items-center"><RiRadioButtonFill className="pr-1"/>Next Auth</p>
                         </div>
-
                     </div> 
                 </div>
                     <Link href="/#projects">
